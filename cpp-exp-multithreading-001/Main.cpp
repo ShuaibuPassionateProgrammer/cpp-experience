@@ -19,7 +19,7 @@ void main_program()
 
 int main() {
 
-    
+    main_program();
 
     return 0;
 }
