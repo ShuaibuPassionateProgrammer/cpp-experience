@@ -11,6 +11,9 @@ using namespace std;
 int main() {
 
     std::cout << "Muti Threading Exercise" << std::endl;
+    cout << "Hello ";
+    cout.flush();
+    sleep(10);
 
     return 0;
 }
