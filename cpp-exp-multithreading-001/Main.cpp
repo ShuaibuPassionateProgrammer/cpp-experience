@@ -7,15 +7,19 @@
 #include <cstdlib>
 using namespace std;
 
-
-int main() {
-
+void main_program()
+{
     std::cout << "Muti Threading Exercise" << std::endl;
     cout << "Hello ";
     cout.flush();
     sleep(10);
     cout << "World";
     cout << endl;
+}
+
+int main() {
+
+    
 
     return 0;
 }
