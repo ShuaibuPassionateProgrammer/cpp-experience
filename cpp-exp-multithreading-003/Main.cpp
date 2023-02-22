@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Multi Threading exercise" << std::end;
     cout << "\t\t\t C++ " << endl;
 	sleep(1);
 	cout << "\t\tProgramming " << endl;
@@ -18,7 +17,19 @@ int main()
 	cout << "\t\tand " << endl;
 	sleep(1);
 	cout << "\t\t\t Hot " << endl;
-
+	sleep(1);
+	cout << "\t\twhich " << endl;
+	sleep(1);
+	cout << "\t\t\t is " << endl;
+	sleep(1);
+	cout << "\t\tvery  " << endl;
+	sleep(1);
+	cout << "\t\t\t easy " << endl;
+	sleep(1);
+	cout << "\t\tto " << endl;
+	sleep(1);
+	cout << "\t\t\t Learn " << endl;
+	sleep(1);
 
     return 0;
 }
